@@ -21,7 +21,7 @@
 
 ><a href = "https://github.com/KRStoykova20"> Kristiana Stoykova</a>  - Back-End Developer
 
-><a> Ivan Draganov</a> - QA engineer
+><a href = "https://github.com/xxVasnkataxx"> Ivan Draganov</a> - QA engineer
 <br>
 
 ---
